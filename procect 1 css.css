@@ -1,0 +1,191 @@
+.boddy
+{
+  background-color: black;
+  color: white;
+  margin: 0px;
+  padding: 0px;
+
+}
+
+.Part_Header
+{
+  width: 1348px;
+  background-color: black;
+  color: white;
+  min-height: 100px;
+  padding: 5px;
+  border-bottom: white 500px;
+  border-style: solid white;
+
+}
+
+.Heade_All_Right
+{
+ padding: 10px;
+  float: left;
+}
+
+.Header_right
+{
+  float: right;
+  padding: 20px;
+ 
+}
+
+.All_Body
+{
+  margin-left: 400px;
+  margin-
+ 
+  .survey
+  {
+    font-size: xx-large;
+  }
+
+  
+  .nammer1
+  {
+    
+    float: left;
+  }
+  
+  .nammer2
+  {
+    
+    float: right;
+    position: absolute;
+    margin-left: 300px;
+  }
+
+  .nammer_button
+  {
+    width: 220px;
+    min-height: 35px;
+    border-radius: 10px;
+  }
+  
+
+  .namer
+  {
+    min-height: 70px;
+  }
+
+  .addresser
+  {
+    font-size: xx-large;
+  }
+
+  .address_header
+  {
+
+  }
+
+  .address1
+  {
+    width: 650px;
+    height: 35px;
+    border-radius: 10px;
+  }
+
+  .stater
+  {float: right;
+    position: relative;
+    margin-right: 350px;
+    margin-top: -55px;
+  }
+
+  .citer_main
+  {
+    width: 250px;
+    min-height: 30px;
+    border-radius: 10px;
+  }
+
+  .Stater_main
+  {
+    width: 250px;
+    min-height: 30px;
+    border-radius: 10px;
+  }
+
+  .zipper
+  {
+    width: 250px;
+    min-height: 30px;
+    border-radius: 10px;
+  }
+  
+  .lebanonies
+  {
+    width: 400px;
+    min-height: 30px;
+    border-radius: 10px;
+  }
+
+  .contact_main
+  {
+    font-size: xx-large;
+  }
+
+  .phoney
+  {
+    width: 250px;
+    min-height: 30px;
+    border-radius: 10px;
+    
+  }
+
+  .mailling
+  {
+    width: 250px;
+    min-height: 30px;
+    border-radius: 10px; 
+  }
+
+  .mailer
+  {
+    float: right;
+    margin-right: 350px;
+    margin-top: -70px;
+
+  }
+
+  .r1
+  {
+    float: right;
+    position: absolute;
+    margin-left: 70px;
+    margin-top: -40px;
+  }
+
+  .r2
+  {
+    float: right;
+    position: absolute;
+    margin-left: 70px;
+    margin-top: -40px;
+  }
+
+  .r3
+  {
+    float: right;
+    position: absolute;
+    margin-left: 70px;
+    margin-top: -40px;
+  }
+
+  .r4
+  {
+    float: right;
+    position: absolute;
+    margin-left: 70px;
+    margin-top: -40px;
+  }
+
+  .r5
+  {
+    float: right;
+    position: absolute;
+    margin-left: 70px;
+    margin-top: -40px;
+  }
